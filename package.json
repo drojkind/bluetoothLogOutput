@@ -4,9 +4,12 @@
   "private": true,
   "dependencies": {
     "convert-hex": "^0.1.0",
+    "fast-csv": "^2.4.1",
+    "moment": "^2.20.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.0.17"
+    "react-scripts": "1.0.17",
+    "recharts": "^1.0.0-beta.7"
   },
   "scripts": {
     "start": "react-scripts start",
